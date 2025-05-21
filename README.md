@@ -17,9 +17,9 @@ Network Traffic Analyzer is a Python-based tool that analyzes network traffic ca
 
 2. Navigate to the project directory: cd Network-traffic-analyzer
 
-3. Install the required dependencies: pip install -r requirements.txt
+3. Install the required dependencies: *pip install -r requirements.txt*
 
-4. run python analyzer.py
+4. run *python analyzer.py*
 
 
 ## Requirements
@@ -31,8 +31,8 @@ Network Traffic Analyzer is a Python-based tool that analyzes network traffic ca
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository
-2. Create your feature branch (git checkout -b feature/my-feature)
-3. Commit your changes (git commit -m 'Add my feature')
-4. Push to the branch (git push origin feature/my-feature)
+2. Create your feature branch (*git checkout -b feature/my-feature*)
+3. Commit your changes (*git commit -m 'Add my feature'*)
+4. Push to the branch (*git push origin feature/my-feature*)
 5. Open a Pull Request
 
